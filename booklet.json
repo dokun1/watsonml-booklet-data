@@ -20,7 +20,7 @@
   "type": "instruction",
   "title": "instructions",
   "imagePath": "",
-  "imageURL": "https://raw.githubusercontent.com/IBM/watsonml-booklet-data/images/instructions.png",
+  "imageURL": "https://raw.githubusercontent.com/IBM/watsonml-booklet-data/master/images/instructions.png",
   "subtitle": "",
   "description": "",
   "order": 3,
