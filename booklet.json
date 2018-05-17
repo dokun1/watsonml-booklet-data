@@ -1,7 +1,7 @@
 [{
   "type": "cover",
   "title": "Watson ML",
-  "imagePath": "logo",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/logo.png",
   "subtitle": "",
   "description": "",
@@ -10,7 +10,7 @@
 }, {
   "type": "instruction",
   "title": "how to play",
-  "imagePath": "how to play",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/how to play.png",
   "subtitle": "",
   "description": "",
@@ -19,7 +19,7 @@
 }, {
   "type": "instruction",
   "title": "instructions",
-  "imagePath": "instructions",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/instructions.png",
   "subtitle": "",
   "description": "",
@@ -28,7 +28,7 @@
 }, {
   "type": "instruction",
   "title": "completion",
-  "imagePath": "completion",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/completion.png",
   "subtitle": "",
   "description": "",
@@ -37,7 +37,7 @@
 }, {
   "type": "instruction",
   "title": "pattern",
-  "imagePath": "engineering",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/engineering.png",
   "subtitle": "",
   "description": "",
@@ -46,7 +46,7 @@
 }, {
   "type": "guide",
   "title": "visual recognition",
-  "imagePath": "visual recognition",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/visual recognition.png",
   "subtitle": "",
   "description": "learn how to program an iOS app to recognize items with Watson",
@@ -55,7 +55,7 @@
 }, {
   "type": "guide",
   "title": "machine learning",
-  "imagePath": "machine learning",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/machine learning.png",
   "subtitle": "",
   "description": "learn how to train a machine learning model for your app",
@@ -64,7 +64,7 @@
 }, {
   "type": "guide",
   "title": "full stack swift",
-  "imagePath": "full stack swift",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/full stack swift.png",
   "subtitle": "",
   "description": "build fast, with the same Swift data structures on client and server",
@@ -73,7 +73,7 @@
 }, {
   "type": "guide",
   "title": "random identity",
-  "imagePath": "random identity",
+  "imagePath": "",
   "imageURL": "https://github.com/IBM/watsonml-booklet-data/images/random identity.png",
   "subtitle": "",
   "description": "a novel approach to anonymous app usage",
