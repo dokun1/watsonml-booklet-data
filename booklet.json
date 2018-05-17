@@ -2,7 +2,7 @@
   "type": "cover",
   "title": "Watson ML",
   "imagePath": "",
-  "imageURL": "https://github.com/IBM/watsonml-booklet-data/blob/master/images/logo.png",
+  "imageURL": "https://raw.githubusercontent.com/IBM/watsonml-booklet-data/master/images/logo.png",
   "subtitle": "",
   "description": "",
   "order": 1,
